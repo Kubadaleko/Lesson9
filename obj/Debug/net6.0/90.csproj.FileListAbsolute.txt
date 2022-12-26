@@ -1,0 +1,15 @@
+E:\GB\Разработчик\Знакомство с языками программирования (семинары)\BuninKV9\90\bin\Debug\net6.0\90.exe
+E:\GB\Разработчик\Знакомство с языками программирования (семинары)\BuninKV9\90\bin\Debug\net6.0\90.deps.json
+E:\GB\Разработчик\Знакомство с языками программирования (семинары)\BuninKV9\90\bin\Debug\net6.0\90.runtimeconfig.json
+E:\GB\Разработчик\Знакомство с языками программирования (семинары)\BuninKV9\90\bin\Debug\net6.0\90.dll
+E:\GB\Разработчик\Знакомство с языками программирования (семинары)\BuninKV9\90\bin\Debug\net6.0\90.pdb
+E:\GB\Разработчик\Знакомство с языками программирования (семинары)\BuninKV9\90\obj\Debug\net6.0\90.csproj.AssemblyReference.cache
+E:\GB\Разработчик\Знакомство с языками программирования (семинары)\BuninKV9\90\obj\Debug\net6.0\90.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\Разработчик\Знакомство с языками программирования (семинары)\BuninKV9\90\obj\Debug\net6.0\90.AssemblyInfoInputs.cache
+E:\GB\Разработчик\Знакомство с языками программирования (семинары)\BuninKV9\90\obj\Debug\net6.0\90.AssemblyInfo.cs
+E:\GB\Разработчик\Знакомство с языками программирования (семинары)\BuninKV9\90\obj\Debug\net6.0\90.csproj.CoreCompileInputs.cache
+E:\GB\Разработчик\Знакомство с языками программирования (семинары)\BuninKV9\90\obj\Debug\net6.0\90.dll
+E:\GB\Разработчик\Знакомство с языками программирования (семинары)\BuninKV9\90\obj\Debug\net6.0\refint\90.dll
+E:\GB\Разработчик\Знакомство с языками программирования (семинары)\BuninKV9\90\obj\Debug\net6.0\90.pdb
+E:\GB\Разработчик\Знакомство с языками программирования (семинары)\BuninKV9\90\obj\Debug\net6.0\90.genruntimeconfig.cache
+E:\GB\Разработчик\Знакомство с языками программирования (семинары)\BuninKV9\90\obj\Debug\net6.0\ref\90.dll
